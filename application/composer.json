@@ -1,0 +1,13 @@
+{
+    "name": "xaviersullano/march242018",
+    "type": "project",
+    "authors": [
+        {
+            "name": "xavier69999",
+            "email": "xavierlemuelgsullano@tua.edu.ph"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
